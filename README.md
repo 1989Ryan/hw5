@@ -18,3 +18,7 @@ code.txt
 README.md
 .gitignore
 ```
+## Prerequisite
+
+* Python-OpenCV
+* Numpy
